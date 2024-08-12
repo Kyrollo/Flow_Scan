@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flow Scan</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="password">كلمة المرور</string>
+    <string name="ic_arabic">عربي</string>
+    <string name="ic_english">English</string>
+    <string name="loginSucceeded">تم تسجيل الدخول بنجاح</string>
+    <string name="loginFailed">بيانات الدخول غير صحيحة. الرجاء إعادة كتابة اسم المستخدم وكلمة المرور</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="scan">مسح</string>
+    <string name="import_data">استيراد البيانات</string>
+    <string name="delete_all">مسح جميع البيانات</string>
+    <string name="settings">الإعدادات</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="data_display">عرض البيانات</string>
+    <string name="scan_barcode">مسح الباركود</string>
+    <string name="language">اللغة</string>
+    <string name="deleteAllDialog">مسح جميع البيانات</string>
+    <string name="confirmDeleteDialog">هل أنت متأكد من مسح جميع البيانات؟</string>
+    <string name="yesDeleteDialog">نعم</string>
+    <string name="noDeleteDialog">لا</string>
+    <string name="dataDeleted">تم مسح جميع البيانات بنجاح</string>
+    <string name="importSucceded">تم استيراد البيانات بنجاح</string>
+    <string name="importFailed">فشل في استيراد البيانات</string>
+    <string name="bar_code">الباركود:</string>
+    <string name="activity_intent_filter_action">com.FlowScan.ACTION</string>
+    <string name="datawedge_intent_data_String">com.symbol.datawedge.data_string</string>
+    <string name="waiting_for_scan">في إنتظار المسح</string>
+    <string name="show_the_data">عرض البيانات</string>
+    <string name="no_data_found">لا توجد بيانات</string>
+    <string name="data_desc">الوصف: </string>
+    <string name="data_cat">الفئة: </string>
+    <string name="data_stat">الحالة: </string>
+    <string name="data_loc">الموقع: </string>
+    <string name="welcome">مرحباً </string>
+</resources>
